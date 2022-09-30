@@ -12,7 +12,7 @@
 
 ---
 
-<a href="https://hooback-app.netlify.app/">Deploy</a>
+<a href="https://hooback-app.netlify.app/" target="_blank">Deploy</a>
 
 ## The project 🖼️
 
